@@ -1,5 +1,4 @@
 <?php
-echo "I have done some changes";//dome some 
-
+echo "I have done some changes";
 
 ?>
