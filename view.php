@@ -5,5 +5,6 @@ function add($a,$b){
 }
 echo "added from git";
 echo "feature_2";
+echo "subfeature_2";
 
 ?>
