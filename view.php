@@ -7,7 +7,9 @@ echo "added from git";
 echo "feature_2";
 echo "subfeature_2";
 echo "subsub_2";
-echo "new brancgh";
 
+echo "master_subbranch_1";
+=======
+echo "new brancgh";
 
 ?>
